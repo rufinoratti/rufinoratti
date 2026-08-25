@@ -2,9 +2,9 @@
 
 # Hola, soy Rufino Ratti 👋
 
-### Desarrollador Frontend · React · Next.js · TypeScript
+### Desarrollador Full Stack · React · Next.js · TypeScript
 
-Construyo experiencias web modernas, rápidas y cuidadas en cada detalle.
+Construyo productos web modernos, rápidos y cuidados en cada detalle, desde la interfaz hasta el backend.
 
 [![Portfolio](https://img.shields.io/badge/Ver%20portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://rufinoratti-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-rufinoratti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rufinoratti)
@@ -15,26 +15,28 @@ Construyo experiencias web modernas, rápidas y cuidadas en cada detalle.
 
 ## Sobre mí
 
-Soy desarrollador frontend con foco en crear productos digitales claros, responsivos y con una experiencia visual sólida. Trabajo principalmente con el ecosistema de React y Next.js, combinando diseño, animación y buenas prácticas de desarrollo.
+Soy desarrollador full stack con foco en crear productos digitales claros, responsivos y con una experiencia visual sólida. Trabajo con React y Next.js en el frontend, y con Supabase para datos, autenticación y servicios backend; complemento cada proyecto con despliegues rápidos y confiables en Vercel.
 
-- 🚀 Me interesa transformar ideas en interfaces funcionales y atractivas.
+- 🚀 Me interesa transformar ideas en productos funcionales, escalables y atractivos.
+- 🔐 Desarrollo flujos completos: interfaz, autenticación, base de datos y despliegue.
 - 🎨 Cuido la experiencia de usuario, los detalles visuales y el rendimiento.
 - 🌱 Siempre explorando nuevas herramientas y formas de mejorar mis proyectos.
 
 ## Tecnologías y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,scss,git,github,vercel&perline=11" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, Sass, Git, GitHub y Vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,supabase,html,css,scss,git,github,vercel&perline=12" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Supabase, HTML, CSS, Sass, Git, GitHub y Vercel" />
 </p>
 
 ## Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
+| **PassNow** | Plataforma orientada a resolver una experiencia de acceso y gestión de usuarios de forma ágil. | Next.js · Supabase · TypeScript |
 | [Portfolio personal](https://rufinoratti-portfolio.vercel.app) | Mi portfolio profesional: una selección de trabajo, habilidades y enfoque como desarrollador. | Next.js · React · TypeScript · Tailwind · Motion |
-| [Portfolio Adolfina Lorenzetti](https://adolfina-lorenzetti-portfolio.vercel.app) | Portfolio web desarrollado para presentar una identidad y trabajo profesional. | Next.js · React · TypeScript |
+| [Rematix — Subastas online](https://github.com/rufinoratti/desarrollo-apps) | Plataforma de subastas online desarrollada como aplicación web. | TypeScript |
 | [Lobos +](https://github.com/rufinoratti/lobos-frontend) | Proyecto frontend desarrollado con TypeScript. | TypeScript |
-| [Desarrollo Apps](https://github.com/rufinoratti/desarrollo-apps) | Colección de aplicaciones y prácticas de desarrollo web. | TypeScript |
+| [Portfolio Adolfina Lorenzetti](https://adolfina-lorenzetti-portfolio.vercel.app) | Portfolio web desarrollado para presentar una identidad y trabajo profesional. | Next.js · React · TypeScript |
 
 ## Estadísticas
 
