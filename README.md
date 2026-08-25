@@ -32,10 +32,9 @@ Soy desarrollador full stack con foco en crear productos digitales claros, respo
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| **PassNow** | Plataforma orientada a resolver una experiencia de acceso y gestión de usuarios de forma ágil. | Next.js · Supabase · TypeScript |
+| [PassNow](https://passnow.com.ar) | Plataforma orientada a resolver una experiencia de acceso y gestión de usuarios de forma ágil. | Next.js · Supabase · TypeScript |
 | [Portfolio personal](https://rufinoratti-portfolio.vercel.app) | Mi portfolio profesional: una selección de trabajo, habilidades y enfoque como desarrollador. | Next.js · React · TypeScript · Tailwind · Motion |
 | [Rematix — Subastas online](https://github.com/rufinoratti/desarrollo-apps) | Plataforma de subastas online desarrollada como aplicación web. | TypeScript |
-| [Lobos +](https://github.com/rufinoratti/lobos-frontend) | Proyecto frontend desarrollado con TypeScript. | TypeScript |
 | [Portfolio Adolfina Lorenzetti](https://adolfina-lorenzetti-portfolio.vercel.app) | Portfolio web desarrollado para presentar una identidad y trabajo profesional. | Next.js · React · TypeScript |
 
 ## Estadísticas
