@@ -37,15 +37,6 @@ Soy desarrollador full stack con foco en crear productos digitales claros, respo
 | [Rematix — Subastas online](https://github.com/rufinoratti/desarrollo-apps) | Plataforma de subastas online desarrollada como aplicación web. | TypeScript |
 | [Portfolio Adolfina Lorenzetti](https://adolfina-lorenzetti-portfolio.vercel.app) | Portfolio web desarrollado para presentar una identidad y trabajo profesional. | Next.js · React · TypeScript |
 
-## Estadísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rufinoratti&show_icons=true&hide_border=true&theme=transparent&locale=es" alt="Estadísticas de GitHub de Rufino Ratti" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufinoratti&layout=compact&hide_border=true&theme=transparent&locale=es" alt="Lenguajes más usados por Rufino Ratti" />
-</p>
-
----
-
 <div align="center">
 
 ### ¿Construimos algo juntos?
